@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://x4x.cc">WebSite</a> •
+  <a href="https://github.com/TopChina">WebSite</a> •
   <a href="weixin://contacts/profile/3236731030">Wechat</a> •
-  <a href="https://twitter.com/risohu">Twitter</a> •
+  <a href="https://github.com/TopChina">Twitter</a> •
   <a href="https://github.com/TopChina">GitHub</a> •
   <a href="mailto:risohu@gmail.com" target="_blank">Email</a> •
   <a href="https://t.me/risohu">Telegram</a>
